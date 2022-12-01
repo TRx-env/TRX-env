@@ -1,10 +1,10 @@
 sudo zypper in -y docker docker-compose
 
-sudo zypper in -y gh
+sudo zypper in -y gh git
 
 sudo zypper in -y emacs
 
-suso zypper in -y clang llvm gcc cmake 
+suso zypper in -y clang llvm gcc cmake boost
 
 sudo zypper in -t pattern devel_C_C++ devel_qt6 devel_kernel
 
