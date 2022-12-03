@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "/usr/include",
+                "/usr/include/c++/12",
+                "/usr/include/c++/12/x86_64-suse-linux",
+                "/usr/include/linux",
+                "/usr/include/c++/12/tr1"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}
