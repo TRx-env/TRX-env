@@ -1,2 +1,13 @@
 
+(<github> <type>
+    (username <string> "")
+    (key <string> "")
+    
+    (Key <()<string>> (
+        {set {} ((()) key)}    
+    ))
+)
+
 (github <github>)
+
+(github (key "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"))
